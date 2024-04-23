@@ -1,2 +1,4 @@
 # Mac (zsh)
 code ~/.zshrc
+# this prints "hello there" to the screen
+echo "hello there"
